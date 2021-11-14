@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+title: "My Mom is my world"
 Use the left arrow to go back!
